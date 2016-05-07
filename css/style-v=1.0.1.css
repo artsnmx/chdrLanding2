@@ -1,38 +1,3 @@
-/**
- * * * * * * * * * * * * * * * * * * * * *
- * * DELICIOUS THEME STYLESHEET* * * * * *
- * * TABLE OF CONTENTS * * * * * * * * * *
- * * * * * * * * * * * * * * * * * * * * *
- * * * * * * * * * * * * * * * * * * * * *
- * 1. CSS RESET
- * 2. HEADER SECTION
- * 3. GENERAL SECTION STYLES
- * 4. SECTION TYPO & DETAILS
- * 5. SEPARATORS AND TRIANGLES
- * 6. ICON COLUMNS
- * 7. BUTTONS
- * 8. REVIEWS
- * 9. SCREENS
- * 10. DEMO
- * 11. FORMS
- * 12. FOOTER
- * * * * * * * * * * * * * * * * * * * * */
-
-/**
- * MAIN COLORS
- * green           = #ff4b01
- * alternate green = #5cadad
- */
-
-/**
- *
- *
- * 1. CSS RESET
- *
- *
- */
-
-
  @font-face {
      font-family: Gotham;
      src: url(Gotham-Light.ttf);
@@ -231,7 +196,7 @@ p {
 }
 
 .mainMenu li a:hover {
-    color: #5cadad;
+    color: #ff4b01;
     background: #fff;
 }
 
